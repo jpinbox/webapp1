@@ -1,0 +1,1 @@
+Temporary application creted using https://github.com/react-boilerplate/react-boilerplate. Thanks to creator and all contributors.
